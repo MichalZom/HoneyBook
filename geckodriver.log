@@ -1,0 +1,1558 @@
+1624093605145	geckodriver	INFO	Listening on 127.0.0.1:61437
+1624093608232	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileNOPXuO"
+1624093609507	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileNOPXuO\\search.json.mozlz4", (void 0)))
+1624093612530	Marionette	INFO	Listening on port 53907
+1624093613036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624093614635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1624093925723	Marionette	INFO	Stopped listening on port 53907
+1624093931576	geckodriver	INFO	Listening on 127.0.0.1:62967
+1624093934679	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile7eTqNm"
+1624093935370	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile7eTqNm\\search.json.mozlz4", (void 0)))
+1624093937825	Marionette	INFO	Listening on port 57788
+1624093937857	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624093941485	Marionette	INFO	Stopped listening on port 57788
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624093946633	geckodriver	INFO	Listening on 127.0.0.1:59358
+1624093949711	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilemOR8yW"
+1624093950342	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilemOR8yW\\search.json.mozlz4", (void 0)))
+1624093953116	Marionette	INFO	Listening on port 59458
+1624093953398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624093956032	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Parent 6988, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624094068016	Marionette	INFO	Stopped listening on port 59458
+[Child 13372, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624094070831	geckodriver	INFO	Listening on 127.0.0.1:49990
+1624094073909	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileFg9ZkS"
+1624094074562	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileFg9ZkS\\search.json.mozlz4", (void 0)))
+1624094076968	Marionette	INFO	Listening on port 57820
+1624094077086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624094078172	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624094078185	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://creativeassets.asosservices.com/js/cx-nrelic.js, line 4: NS_ERROR_NOT_INITIALIZED: 
+1624094079458	Marionette	INFO	Stopped listening on port 57820
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624094106812	geckodriver	INFO	Listening on 127.0.0.1:64761
+1624094109876	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilepsNOym"
+1624094110520	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilepsNOym\\search.json.mozlz4", (void 0)))
+1624094113310	Marionette	INFO	Listening on port 56305
+1624094113563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624094114643	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624094154626	Marionette	INFO	Stopped listening on port 56305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624095568096	geckodriver	INFO	Listening on 127.0.0.1:58728
+1624095571156	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilenxOMTf"
+1624095571787	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilenxOMTf\\search.json.mozlz4", (void 0)))
+1624095574539	Marionette	INFO	Listening on port 64216
+1624095574857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624095575991	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624095605075	Marionette	INFO	Stopped listening on port 64216
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624095608445	geckodriver	INFO	Listening on 127.0.0.1:49854
+1624095611519	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileYsxaGM"
+1624095612147	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileYsxaGM\\search.json.mozlz4", (void 0)))
+1624095614880	Marionette	INFO	Listening on port 57903
+1624095615209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624095618773	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624095621963	Marionette	INFO	Stopped listening on port 57903
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624095636797	geckodriver	INFO	Listening on 127.0.0.1:55467
+1624095639887	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilejPlCLn"
+1624095640517	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilejPlCLn\\search.json.mozlz4", (void 0)))
+1624095642817	Marionette	INFO	Listening on port 55417
+1624095643075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624095644015	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624095644020	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624095717931	Marionette	INFO	Stopped listening on port 55417
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624095721722	geckodriver	INFO	Listening on 127.0.0.1:62174
+1624095724799	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileVjUmQL"
+1624095725467	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileVjUmQL\\search.json.mozlz4", (void 0)))
+1624095727792	Marionette	INFO	Listening on port 56659
+1624095727974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624095728954	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624095728958	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624095771396	Marionette	INFO	Stopped listening on port 56659
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624095790699	geckodriver	INFO	Listening on 127.0.0.1:52077
+1624095793760	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilejFwbUD"
+1624095794390	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilejFwbUD\\search.json.mozlz4", (void 0)))
+1624095796656	Marionette	INFO	Listening on port 64602
+1624095796935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624095798022	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624095798028	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624095817564	Marionette	INFO	Stopped listening on port 64602
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624095821037	geckodriver	INFO	Listening on 127.0.0.1:56147
+1624095824107	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileyCheDd"
+1624095824749	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileyCheDd\\search.json.mozlz4", (void 0)))
+1624095827556	Marionette	INFO	Listening on port 64180
+1624095827809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624095828883	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624095828888	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1624095954570	Marionette	INFO	Stopped listening on port 64180
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624095960478	geckodriver	INFO	Listening on 127.0.0.1:63236
+1624095963526	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilesCaQfS"
+1624095964162	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilesCaQfS\\search.json.mozlz4", (void 0)))
+1624095966873	Marionette	INFO	Listening on port 60479
+1624095967246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624095968275	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624096105359	Marionette	INFO	Stopped listening on port 60479
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624096108040	geckodriver	INFO	Listening on 127.0.0.1:62017
+1624096111098	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilecZH5p6"
+1624096111765	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilecZH5p6\\search.json.mozlz4", (void 0)))
+1624096114606	Marionette	INFO	Listening on port 57945
+1624096114776	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624096119466	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624096119470	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://assets.asosservices.com/identity/widgets/standalone/sdk.3.1.2.min.js, line 181: TypeError: e is undefined
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: e is undefined
+JavaScript error: https://assets.asosservices.com/cmsa/css/gh/gh-bundle-1.3.0.min.js, line 1: TypeError: t is undefined
+1624096362970	Marionette	INFO	Stopped listening on port 57945
+[Parent 17780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624096365821	geckodriver	INFO	Listening on 127.0.0.1:64088
+1624096368876	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile0L6k6A"
+1624096369535	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile0L6k6A\\search.json.mozlz4", (void 0)))
+1624096372462	Marionette	INFO	Listening on port 62163
+1624096372569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624096373658	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624096373663	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624096391615	Marionette	INFO	Stopped listening on port 62163
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624096394479	geckodriver	INFO	Listening on 127.0.0.1:59981
+1624096397547	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilesS6HIq"
+1624096398194	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilesS6HIq\\search.json.mozlz4", (void 0)))
+1624096400910	Marionette	INFO	Listening on port 63206
+1624096401237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624096402275	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624096473513	Marionette	INFO	Stopped listening on port 63206
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624096476233	geckodriver	INFO	Listening on 127.0.0.1:61655
+1624096479322	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileuh8Wt1"
+1624096479967	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileuh8Wt1\\search.json.mozlz4", (void 0)))
+1624096482813	Marionette	INFO	Listening on port 59013
+1624096483001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624096484027	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624097024905	Marionette	INFO	Stopped listening on port 59013
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624097027596	geckodriver	INFO	Listening on 127.0.0.1:57324
+1624097030656	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilefL8s6Y"
+1624097031298	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilefL8s6Y\\search.json.mozlz4", (void 0)))
+1624097033794	Marionette	INFO	Listening on port 57332
+1624097033811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624097035099	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624097090819	Marionette	INFO	Stopped listening on port 57332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624097094240	geckodriver	INFO	Listening on 127.0.0.1:59989
+1624097097321	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileg3RuC2"
+1624097098010	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileg3RuC2\\search.json.mozlz4", (void 0)))
+1624097100254	Marionette	INFO	Listening on port 61994
+1624097100518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624097104373	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://my.asos.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://my.asos.com"
+1624097320880	Marionette	INFO	Stopped listening on port 61994
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624097323534	geckodriver	INFO	Listening on 127.0.0.1:55490
+1624097326623	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilekal8gl"
+1624097327257	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilekal8gl\\search.json.mozlz4", (void 0)))
+1624097330075	Marionette	INFO	Listening on port 49221
+1624097330301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624097331458	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624097795483	Marionette	INFO	Stopped listening on port 49221
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624097809706	geckodriver	INFO	Listening on 127.0.0.1:51938
+1624097812758	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilegcQMRJ"
+1624097813214	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilegcQMRJ\\search.json.mozlz4", (void 0)))
+1624097815261	Marionette	INFO	Listening on port 52707
+1624097815412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624097816517	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624099053000	Marionette	INFO	Stopped listening on port 52707
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624099055513	geckodriver	INFO	Listening on 127.0.0.1:49908
+1624099058580	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile3A9XEc"
+1624099059042	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile3A9XEc\\search.json.mozlz4", (void 0)))
+1624099061023	Marionette	INFO	Listening on port 56958
+1624099061247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624099062639	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624099186589	Marionette	INFO	Stopped listening on port 56958
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624099188874	geckodriver	INFO	Listening on 127.0.0.1:58762
+1624099191937	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileiXFBor"
+1624099192387	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileiXFBor\\search.json.mozlz4", (void 0)))
+1624099194500	Marionette	INFO	Listening on port 51721
+1624099194597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624099195674	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624099327695	Marionette	INFO	Stopped listening on port 51721
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624099330174	geckodriver	INFO	Listening on 127.0.0.1:49589
+1624099333236	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileQpVsNe"
+1624099333694	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileQpVsNe\\search.json.mozlz4", (void 0)))
+1624099335934	Marionette	INFO	Listening on port 52731
+1624099336406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624099337878	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://my.asos.com"
+SourceActor threw an exception: Error: Failed to fetch https://my.asos.com/identity/register?lang=en-GB&store=ROW&country=IL&keyStoreDataversion=hnm9sjt-28&returnUrl=https%3A%2F%2Fwww.asos.com%2F&_ga=2.83129488.723312715.1624099345-5603895.1624099345. Code 2152398878.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://my.asos.com/identity/register?lang=en-GB&store=ROW&country=IL&keyStoreDataversion=hnm9sjt-28&returnUrl=https%3A%2F%2Fwww.asos.com%2F&_ga=2.83129488.723312715.1624099345-5603895.1624099345. Code 2152398878.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://my.asos.com/identity/register?lang=en-GB&store=ROW&country=IL&keyStoreDataversion=hnm9sjt-28&returnUrl=https%3A%2F%2Fwww.asos.com%2F&_ga=2.83129488.723312715.1624099345-5603895.1624099345. Code 2152398878.
+1624099406895	Marionette	INFO	Stopped listening on port 52731
+1624099409483	geckodriver	INFO	Listening on 127.0.0.1:52843
+1624099412541	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileCBP5tn"
+1624099412999	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileCBP5tn\\search.json.mozlz4", (void 0)))
+1624099415116	Marionette	INFO	Listening on port 59380
+1624099415191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624099416190	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624099416193	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624099599660	Marionette	INFO	Stopped listening on port 59380
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624099632310	geckodriver	INFO	Listening on 127.0.0.1:60129
+1624099635356	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofiletjvale"
+1624099635836	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofiletjvale\\search.json.mozlz4", (void 0)))
+1624099637863	Marionette	INFO	Listening on port 64715
+1624099637995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624099650397	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624099731743	Marionette	INFO	Stopped listening on port 64715
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624099753184	geckodriver	INFO	Listening on 127.0.0.1:65438
+1624099756271	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileGvHvdV"
+1624099756740	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileGvHvdV\\search.json.mozlz4", (void 0)))
+1624099758649	Marionette	INFO	Listening on port 54382
+1624099758920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624099760882	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624099923975	Marionette	INFO	Stopped listening on port 54382
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624099928067	geckodriver	INFO	Listening on 127.0.0.1:57064
+1624099931119	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileRCYsPD"
+1624099931607	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileRCYsPD\\search.json.mozlz4", (void 0)))
+1624099933742	Marionette	INFO	Listening on port 49966
+1624099933790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624099935820	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624099935822	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624099966837	Marionette	INFO	Stopped listening on port 49966
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624099991166	geckodriver	INFO	Listening on 127.0.0.1:63894
+1624099994225	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileVTMjyN"
+1624099994686	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileVTMjyN\\search.json.mozlz4", (void 0)))
+1624099996748	Marionette	INFO	Listening on port 60941
+1624099996867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624099999324	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624100081168	Marionette	INFO	Stopped listening on port 60941
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624100083795	geckodriver	INFO	Listening on 127.0.0.1:50237
+1624100086842	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileDs7gGk"
+1624100087288	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileDs7gGk\\search.json.mozlz4", (void 0)))
+1624100089401	Marionette	INFO	Listening on port 62857
+1624100089513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624100093610	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624100230294	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624100239523	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624100261751	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624100330110	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624100332468	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624100334059	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624100337514	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624100338001	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624100394138	Marionette	INFO	Stopped listening on port 62857
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624100397289	geckodriver	INFO	Listening on 127.0.0.1:56811
+1624100400338	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileBSamjm"
+1624100400838	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileBSamjm\\search.json.mozlz4", (void 0)))
+1624100402852	Marionette	INFO	Listening on port 55541
+1624100403009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624100404995	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://my.asos.com"
+1624100543186	Marionette	INFO	Stopped listening on port 55541
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624100545704	geckodriver	INFO	Listening on 127.0.0.1:60159
+1624100548766	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileFPeLQV"
+1624100549218	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileFPeLQV\\search.json.mozlz4", (void 0)))
+1624100551242	Marionette	INFO	Listening on port 56697
+1624100551434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624100552695	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://creativeassets.asosservices.com/js/cx-nrelic.js, line 4: NS_ERROR_NOT_INITIALIZED: 
+1624100553266	Marionette	INFO	Stopped listening on port 56697
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624100560378	geckodriver	INFO	Listening on 127.0.0.1:62975
+1624100563455	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilecEXHGk"
+1624100563919	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilecEXHGk\\search.json.mozlz4", (void 0)))
+1624100566015	Marionette	INFO	Listening on port 52557
+1624100566142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624100567781	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624100580444	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://assets.asosservices.com/identity/widgets/standalone/sdk.3.1.2.min.js, line 181: TypeError: e is undefined
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: e is undefined
+JavaScript error: https://assets.asosservices.com/cmsa/css/gh/gh-bundle-1.3.0.min.js, line 1: TypeError: t is undefined
+1624101556292	Marionette	INFO	Stopped listening on port 52557
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624101559767	geckodriver	INFO	Listening on 127.0.0.1:64254
+1624101562811	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileCIRsx2"
+1624101563395	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileCIRsx2\\search.json.mozlz4", (void 0)))
+1624101565949	Marionette	INFO	Listening on port 54879
+1624101565994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624101567071	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624101603831	Marionette	INFO	Stopped listening on port 54879
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624101606441	geckodriver	INFO	Listening on 127.0.0.1:64236
+1624101609510	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilePV30FL"
+1624101609959	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilePV30FL\\search.json.mozlz4", (void 0)))
+1624101612017	Marionette	INFO	Listening on port 59219
+1624101612170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624101613199	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624101726096	Marionette	INFO	Stopped listening on port 59219
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624101746528	geckodriver	INFO	Listening on 127.0.0.1:62718
+1624101749602	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileZ1pGIH"
+1624101750064	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileZ1pGIH\\search.json.mozlz4", (void 0)))
+1624101752166	Marionette	INFO	Listening on port 58354
+1624101752279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624101753491	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624101922383	Marionette	INFO	Stopped listening on port 58354
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624101935301	geckodriver	INFO	Listening on 127.0.0.1:55340
+1624101938367	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile0KBNAO"
+1624101938825	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile0KBNAO\\search.json.mozlz4", (void 0)))
+1624101941060	Marionette	INFO	Listening on port 53812
+1624101941543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624101943470	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://creativeassets.asosservices.com/js/cx-nrelic.js, line 4: uncaught exception: Object
+JavaScript warning: https://creativeassets.asosservices.com/js/cx-nrelic.js, line 4: Script terminated by timeout at:
+nrWrapper@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:14945
+window.cx.configNewRelic</__nr_require<[14]</<@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:11040
+n@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:15814
+n@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:15755
+u@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:15208
+nrWrapper@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:14852
+dispatchEvent@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:6:8578
+Q</e</a.prototype.send@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:5:3981
+Q</e</a.prototype.dispatchEvent@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:5:3626
+T</i</a.prototype.drainQueue/c<@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:5:9848
+nrWrapper@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:14889
+r@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:6041
+T</i</a.prototype.drainQueue@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:5:9705
+K</f</a.prototype.flush@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:4:30929
+nrWrapper@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:14889
+setTimeout handler*nrWrapper@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:14889
+K</d</a.prototype.start@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:4:29782
+K</d</a.prototype.refresh@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:4:29870
+K</f</a.prototype.enqueue@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:4:30812
+T</i</a.prototype.process@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:5:10020
+ba</kb</a.prototype.sendImpressionEvent@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:7:5218
+ba</kb</a.prototype.activate@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:7:4058
+h@https://ci.asosservices.com/core/shared-libs-2.0.9.min.js:7:20699
+di/<@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js:1:103592
+nrWrapper@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:14889
+promise callback*nrWrapper@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:14889
+di@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js:1:103573
+nrWrapper@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:14889
+promise callback*nrWrapper@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:14889
+e/<@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js:1:104231
+c@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.lib.d046b1.js:6:81090
+s/i._invoke</<@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.lib.d046b1.js:6:80844
+g/</<@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.lib.d046b1.js:6:81449
+n@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.lib.d046b1.js:1:3588
+u@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.lib.d046b1.js:1:3800
+t.exports/</<@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.lib.d046b1.js:1:3859
+nrWrapper@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:14889
+r@https://creativeassets.asosservices.com/js/cx-nrelic.js:4:6041
+t.exports/<@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.lib.d046b1.js:1:3739
+543/pi</<@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js:1:104572
+Dg@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js:1:299967
+543/<@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js:1:301583
+EventListener.handleEvent*543@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js:1:301292
+i@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js:1:561
+n@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js:1:430
+t@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js:1:293
+@https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.lib.d046b1.js:1:67
+
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 287: TypeError: InspectorUtils.setContentState: Argument 1 is not an object.
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 287: TypeError: InspectorUtils.setContentState: Argument 1 is not an object.
+1624103173237	Marionette	INFO	Stopped listening on port 53812
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624103186655	geckodriver	INFO	Listening on 127.0.0.1:51540
+1624103189690	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilenvLWEC"
+1624103190187	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilenvLWEC\\search.json.mozlz4", (void 0)))
+1624103192375	Marionette	INFO	Listening on port 64882
+1624103192869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624103194629	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624103299989	Marionette	INFO	Stopped listening on port 64882
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624103357679	geckodriver	INFO	Listening on 127.0.0.1:63306
+1624103360761	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileuC8QkH"
+1624103361219	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileuC8QkH\\search.json.mozlz4", (void 0)))
+1624103363309	Marionette	INFO	Listening on port 53850
+1624103363413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624103364595	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624103449204	Marionette	INFO	Stopped listening on port 53850
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624103451712	geckodriver	INFO	Listening on 127.0.0.1:54411
+1624103454765	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileNqyqM0"
+1624103455223	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileNqyqM0\\search.json.mozlz4", (void 0)))
+1624103457328	Marionette	INFO	Listening on port 59244
+1624103457428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624103458962	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624103482537	Marionette	INFO	Stopped listening on port 59244
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624103499337	geckodriver	INFO	Listening on 127.0.0.1:52936
+1624103502391	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileuoTzHf"
+1624103502857	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileuoTzHf\\search.json.mozlz4", (void 0)))
+1624103505005	Marionette	INFO	Listening on port 64408
+1624103505029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624103507193	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624106725941	Marionette	INFO	Stopped listening on port 64408
+1624106759010	geckodriver	INFO	Listening on 127.0.0.1:57933
+1624106762079	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofiledemfGw"
+1624106762748	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofiledemfGw\\search.json.mozlz4", (void 0)))
+1624106765030	Marionette	INFO	Listening on port 56929
+1624106765278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624106766454	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624106766458	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624106821196	Marionette	INFO	Stopped listening on port 56929
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624106890075	geckodriver	INFO	Listening on 127.0.0.1:49916
+1624106893154	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile9pE7NP"
+1624106893791	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile9pE7NP\\search.json.mozlz4", (void 0)))
+1624106896488	Marionette	INFO	Listening on port 65062
+1624106896868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624106897860	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624106897864	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624107250971	Marionette	INFO	Stopped listening on port 65062
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624107254099	geckodriver	INFO	Listening on 127.0.0.1:61996
+1624107257184	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilehXqtr9"
+1624107257847	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilehXqtr9\\search.json.mozlz4", (void 0)))
+1624107260541	Marionette	INFO	Listening on port 53679
+1624107260899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624107262000	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624107262005	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624107304913	Marionette	INFO	Stopped listening on port 53679
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624107307768	geckodriver	INFO	Listening on 127.0.0.1:64388
+1624107310866	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileiY1GRH"
+1624107311497	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileiY1GRH\\search.json.mozlz4", (void 0)))
+1624107313896	Marionette	INFO	Listening on port 62097
+1624107314083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624107315501	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624107389006	Marionette	INFO	Stopped listening on port 62097
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624107391986	geckodriver	INFO	Listening on 127.0.0.1:55314
+1624107395055	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilei6neEx"
+1624107395724	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilei6neEx\\search.json.mozlz4", (void 0)))
+1624107398455	Marionette	INFO	Listening on port 50266
+1624107398763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624107399891	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624109602662	Marionette	INFO	Stopped listening on port 50266
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624109604994	geckodriver	INFO	Listening on 127.0.0.1:65433
+1624109608042	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilebHIrd2"
+1624109608703	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilebHIrd2\\search.json.mozlz4", (void 0)))
+1624109611480	Marionette	INFO	Listening on port 62862
+1624109611716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624109612825	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624109662925	Marionette	INFO	Stopped listening on port 62862
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624109665644	geckodriver	INFO	Listening on 127.0.0.1:57351
+1624109668691	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileFVX2K6"
+1624109669325	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileFVX2K6\\search.json.mozlz4", (void 0)))
+1624109672103	Marionette	INFO	Listening on port 55535
+1624109672409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624109673518	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624109825600	Marionette	INFO	Stopped listening on port 55535
+1624109828234	geckodriver	INFO	Listening on 127.0.0.1:61717
+1624109831267	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileSZkhL0"
+1624109832124	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileSZkhL0\\search.json.mozlz4", (void 0)))
+1624109835198	Marionette	INFO	Listening on port 62544
+1624109835464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624109836701	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624109960142	Marionette	INFO	Stopped listening on port 62544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624109962578	geckodriver	INFO	Listening on 127.0.0.1:60843
+1624109965644	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileHvjaFm"
+1624109966337	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileHvjaFm\\search.json.mozlz4", (void 0)))
+1624109968764	Marionette	INFO	Listening on port 56300
+1624109968833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624109969999	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624109970003	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624109992251	Marionette	INFO	Stopped listening on port 56300
+[Parent 19360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624110003092	geckodriver	INFO	Listening on 127.0.0.1:54527
+1624110006198	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileMejey4"
+1624110006832	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileMejey4\\search.json.mozlz4", (void 0)))
+1624110009249	Marionette	INFO	Listening on port 54664
+1624110009391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624110010576	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624110010581	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624110074193	Marionette	INFO	Stopped listening on port 54664
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624110076525	geckodriver	INFO	Listening on 127.0.0.1:51320
+1624110079616	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile2vCxAb"
+1624110080247	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile2vCxAb\\search.json.mozlz4", (void 0)))
+1624110082946	Marionette	INFO	Listening on port 60158
+1624110083306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624110084309	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624110621231	Marionette	INFO	Stopped listening on port 60158
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624110623754	geckodriver	INFO	Listening on 127.0.0.1:61321
+1624110626808	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileOGJhmA"
+1624110627450	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileOGJhmA\\search.json.mozlz4", (void 0)))
+1624110630137	Marionette	INFO	Listening on port 59925
+1624110630483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624110631678	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624110641869	Marionette	INFO	Stopped listening on port 59925
+[Parent 13376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624110699317	geckodriver	INFO	Listening on 127.0.0.1:62813
+1624110702421	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile4nWQR1"
+1624110703056	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile4nWQR1\\search.json.mozlz4", (void 0)))
+1624110705947	Marionette	INFO	Listening on port 58957
+1624110706098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624110707287	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624110822284	Marionette	INFO	Stopped listening on port 58957
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624110825012	geckodriver	INFO	Listening on 127.0.0.1:54060
+1624110828061	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileqml676"
+1624110828701	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileqml676\\search.json.mozlz4", (void 0)))
+1624110831065	Marionette	INFO	Listening on port 61070
+1624110831222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624110832301	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624111036733	Marionette	INFO	Stopped listening on port 61070
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624111039463	geckodriver	INFO	Listening on 127.0.0.1:64309
+1624111042516	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile5VNiJP"
+1624111043161	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile5VNiJP\\search.json.mozlz4", (void 0)))
+1624111045984	Marionette	INFO	Listening on port 54818
+1624111046183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624111047313	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624111047318	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624111146812	Marionette	INFO	Stopped listening on port 54818
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624111149331	geckodriver	INFO	Listening on 127.0.0.1:63030
+1624111152381	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilehvURdq"
+1624111153005	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilehvURdq\\search.json.mozlz4", (void 0)))
+1624111155417	Marionette	INFO	Listening on port 57678
+1624111155552	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624111164781	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624111324466	Marionette	INFO	Stopped listening on port 57678
+[Parent 8608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624111326723	geckodriver	INFO	Listening on 127.0.0.1:62728
+1624111329761	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileltATNn"
+1624111330399	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileltATNn\\search.json.mozlz4", (void 0)))
+1624111333098	Marionette	INFO	Listening on port 56186
+1624111333448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624111334525	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624113395541	Marionette	INFO	Stopped listening on port 56186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624113398308	geckodriver	INFO	Listening on 127.0.0.1:52574
+1624113401384	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileDLWIpT"
+1624113402024	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileDLWIpT\\search.json.mozlz4", (void 0)))
+1624113404386	Marionette	INFO	Listening on port 53716
+1624113404554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624113405994	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624113406002	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624113514524	Marionette	INFO	Stopped listening on port 53716
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624113516890	geckodriver	INFO	Listening on 127.0.0.1:49852
+1624113519970	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile7VJnOJ"
+1624113520612	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile7VJnOJ\\search.json.mozlz4", (void 0)))
+1624113523370	Marionette	INFO	Listening on port 57311
+1624113523669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624113524925	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624113765661	Marionette	INFO	Stopped listening on port 57311
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624113767902	geckodriver	INFO	Listening on 127.0.0.1:52424
+1624113770985	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile6ItKdc"
+1624113771621	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile6ItKdc\\search.json.mozlz4", (void 0)))
+1624113774084	Marionette	INFO	Listening on port 61726
+1624113774164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624113775264	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624113775268	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624114102400	Marionette	INFO	Stopped listening on port 61726
+[Child 5524, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 5524, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 5524, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 5524, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624114106697	geckodriver	INFO	Listening on 127.0.0.1:57354
+1624114109760	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileiRKjaD"
+1624114110407	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileiRKjaD\\search.json.mozlz4", (void 0)))
+1624114112737	Marionette	INFO	Listening on port 54841
+1624114112934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624114114070	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624114244740	Marionette	INFO	Stopped listening on port 54841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624114251887	geckodriver	INFO	Listening on 127.0.0.1:53197
+1624114254975	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilePLTLgI"
+1624114255627	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilePLTLgI\\search.json.mozlz4", (void 0)))
+1624114258314	Marionette	INFO	Listening on port 56579
+1624114258650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624114260622	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624114542923	Marionette	INFO	Stopped listening on port 56579
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624114545739	geckodriver	INFO	Listening on 127.0.0.1:56434
+1624114548812	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilepE5tcs"
+1624114549450	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilepE5tcs\\search.json.mozlz4", (void 0)))
+1624114551692	Marionette	INFO	Listening on port 53873
+1624114551967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624114553257	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624114578278	Marionette	INFO	Stopped listening on port 53873
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624114582557	geckodriver	INFO	Listening on 127.0.0.1:53095
+1624114585627	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilevMNvrK"
+1624114586269	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilevMNvrK\\search.json.mozlz4", (void 0)))
+1624114589012	Marionette	INFO	Listening on port 53184
+1624114589300	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624114597544	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624114597550	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624114671830	Marionette	INFO	Stopped listening on port 53184
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624114722866	geckodriver	INFO	Listening on 127.0.0.1:61096
+1624114725958	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileM8XflY"
+1624114726603	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileM8XflY\\search.json.mozlz4", (void 0)))
+1624114729276	Marionette	INFO	Listening on port 58885
+1624114729611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624114730854	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624114740178	Marionette	INFO	Stopped listening on port 58885
+[Parent 4436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624114772401	geckodriver	INFO	Listening on 127.0.0.1:61767
+1624114775486	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileGUTTVE"
+1624114776130	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileGUTTVE\\search.json.mozlz4", (void 0)))
+1624114778547	Marionette	INFO	Listening on port 52113
+1624114778684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624114779895	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1624115073981	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624115210286	Marionette	INFO	Stopped listening on port 52113
+[Parent 7568, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624115214451	geckodriver	INFO	Listening on 127.0.0.1:53008
+1624115217519	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilezDM59i"
+1624115218235	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilezDM59i\\search.json.mozlz4", (void 0)))
+1624115221007	Marionette	INFO	Listening on port 54970
+1624115221218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624115222434	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624115231747	Marionette	INFO	Stopped listening on port 54970
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624115316927	geckodriver	INFO	Listening on 127.0.0.1:61954
+1624115320006	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileavNbDR"
+1624115320689	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileavNbDR\\search.json.mozlz4", (void 0)))
+1624115323312	Marionette	INFO	Listening on port 53766
+1624115323675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624115324983	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624115349008	Marionette	INFO	Stopped listening on port 53766
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624115488250	geckodriver	INFO	Listening on 127.0.0.1:53820
+1624115491310	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileKamElw"
+1624115492027	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileKamElw\\search.json.mozlz4", (void 0)))
+1624115494611	Marionette	INFO	Listening on port 64210
+1624115495006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624115496188	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624115507047	Marionette	INFO	Stopped listening on port 64210
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624118838470	geckodriver	INFO	Listening on 127.0.0.1:50250
+1624118841527	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileIML2xW"
+1624118947875	geckodriver	INFO	Listening on 127.0.0.1:57764
+1624118950908	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilew1rE5q"
+1624118951617	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilew1rE5q\\search.json.mozlz4", (void 0)))
+1624118954173	Marionette	INFO	Listening on port 54457
+1624118954600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624118955855	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624118955865	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1624118965154	Marionette	INFO	Stopped listening on port 54457
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624118992676	geckodriver	INFO	Listening on 127.0.0.1:57244
+1624118995756	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileKHfQ6T"
+1624118996434	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileKHfQ6T\\search.json.mozlz4", (void 0)))
+1624118999400	Marionette	INFO	Listening on port 60218
+1624118999467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624119000636	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624119024674	Marionette	INFO	Stopped listening on port 60218
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624122069773	geckodriver	INFO	Listening on 127.0.0.1:64319
+1624122072812	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile173Bkq"
+1624122073400	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile173Bkq\\search.json.mozlz4", (void 0)))
+1624122075637	Marionette	INFO	Listening on port 64327
+1624122075984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624122076987	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624122111622	Marionette	INFO	Stopped listening on port 64327
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624125446600	geckodriver	INFO	Listening on 127.0.0.1:60616
+1624125449681	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilerAxccl"
+1624125450902	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilerAxccl\\search.json.mozlz4", (void 0)))
+1624125453682	Marionette	INFO	Listening on port 60624
+1624125453910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624125455170	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624125455174	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1624131029173	Marionette	INFO	Stopped listening on port 60624
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624131031987	geckodriver	INFO	Listening on 127.0.0.1:56935
+1624131035076	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilerQ8G0F"
+1624131035562	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilerQ8G0F\\search.json.mozlz4", (void 0)))
+1624131037478	Marionette	INFO	Listening on port 56943
+1624131037745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624131038889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624131054063	Marionette	INFO	Stopped listening on port 56943
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624131060248	geckodriver	INFO	Listening on 127.0.0.1:57082
+1624131063295	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilef3fWqv"
+1624131063765	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilef3fWqv\\search.json.mozlz4", (void 0)))
+1624131065867	Marionette	INFO	Listening on port 57091
+1624131066003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624131070025	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624131074009	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1624131341668	Marionette	INFO	Stopped listening on port 57091
+[Child 11736, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624131345567	geckodriver	INFO	Listening on 127.0.0.1:57078
+1624131348664	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileMEUUKF"
+1624131349141	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileMEUUKF\\search.json.mozlz4", (void 0)))
+1624131351236	Marionette	INFO	Listening on port 57086
+1624131351332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624131371375	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624131375010	Marionette	INFO	Stopped listening on port 57086
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624131380106	geckodriver	INFO	Listening on 127.0.0.1:63631
+1624131383189	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilen8uw3y"
+1624131383649	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilen8uw3y\\search.json.mozlz4", (void 0)))
+1624131385781	Marionette	INFO	Listening on port 63639
+1624131385870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624131387200	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624131509967	Marionette	INFO	Stopped listening on port 63639
+1624131512368	geckodriver	INFO	Listening on 127.0.0.1:63268
+1624131515401	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileVsQicB"
+1624131515876	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileVsQicB\\search.json.mozlz4", (void 0)))
+1624131517985	Marionette	INFO	Listening on port 63276
+1624131518090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624131518972	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://assets.asosservices.com/identity/widgets/standalone/sdk.3.1.2.min.js, line 181: TypeError: e is undefined
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: e is undefined
+JavaScript error: https://assets.asosservices.com/cmsa/css/gh/gh-bundle-1.3.0.min.js, line 1: TypeError: t is undefined
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1624131532428	Marionette	INFO	Stopped listening on port 63276
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624135968143	geckodriver	INFO	Listening on 127.0.0.1:62126
+1624135971230	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile5ArCf4"
+1624135971871	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile5ArCf4\\search.json.mozlz4", (void 0)))
+1624135974739	Marionette	INFO	Listening on port 62136
+1624135974941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624135976066	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624135976076	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1624135990089	Marionette	INFO	Stopped listening on port 62136
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624135994652	geckodriver	INFO	Listening on 127.0.0.1:62265
+1624135997739	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilewpnRuj"
+1624135998376	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilewpnRuj\\search.json.mozlz4", (void 0)))
+1624136001171	Marionette	INFO	Listening on port 62273
+1624136001432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624136003586	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624136019705	Marionette	INFO	Stopped listening on port 62273
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624136025822	geckodriver	INFO	Listening on 127.0.0.1:62414
+1624136028926	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilecBZVxK"
+1624136029548	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilecBZVxK\\search.json.mozlz4", (void 0)))
+1624136032475	Marionette	INFO	Listening on port 62422
+1624136032599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624136033794	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624136049862	Marionette	INFO	Stopped listening on port 62422
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624174241769	geckodriver	INFO	Listening on 127.0.0.1:56425
+1624174244812	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileAX8csK"
+1624174245824	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileAX8csK\\search.json.mozlz4", (void 0)))
+1624174248737	Marionette	INFO	Listening on port 52743
+1624174249014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624174250207	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624174250211	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624174265639	Marionette	INFO	Stopped listening on port 52743
+[Parent 13588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624174367599	geckodriver	INFO	Listening on 127.0.0.1:58679
+1624174370687	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileWaJW0b"
+1624174371361	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileWaJW0b\\search.json.mozlz4", (void 0)))
+1624174374217	Marionette	INFO	Listening on port 58687
+1624174374383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624174376795	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1624174708454	Marionette	INFO	Stopped listening on port 58687
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624174710991	geckodriver	INFO	Listening on 127.0.0.1:61747
+1624174714060	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileUCUwH5"
+1624174714693	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileUCUwH5\\search.json.mozlz4", (void 0)))
+1624174717547	Marionette	INFO	Listening on port 61755
+1624174717758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624174718771	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1624174736960	Marionette	INFO	Stopped listening on port 61755
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624174791239	geckodriver	INFO	Listening on 127.0.0.1:58575
+1624174794317	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileQ47WHd"
+1624174794980	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileQ47WHd\\search.json.mozlz4", (void 0)))
+1624174797228	Marionette	INFO	Listening on port 59207
+1624174797487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624174798553	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624174798556	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624174815203	Marionette	INFO	Stopped listening on port 59207
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624174883314	geckodriver	INFO	Listening on 127.0.0.1:49673
+1624174886407	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile82A8q9"
+1624174887050	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile82A8q9\\search.json.mozlz4", (void 0)))
+1624174889390	Marionette	INFO	Listening on port 49681
+1624174889568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624174890590	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624174890597	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://cdns.gigya.com/JS/gigya.js?apiKey=3_Gl66L3LpFTiwZ8jWQ9x_4MLyUUHPRmPtRni0hzJ9RH5WA2Ro6tUv47yNXtKn3HQ8, line 70: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cdns.gigya.com/JS/gigya.js?apiKey=3_Gl66L3LpFTiwZ8jWQ9x_4MLyUUHPRmPtRni0hzJ9RH5WA2Ro6tUv47yNXtKn3HQ8, line 70: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1624174906357	Marionette	INFO	Stopped listening on port 49681
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624175364072	geckodriver	INFO	Listening on 127.0.0.1:57587
+1624175367183	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile33bU3C"
+1624175367824	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile33bU3C\\search.json.mozlz4", (void 0)))
+1624175370606	Marionette	INFO	Listening on port 57595
+1624175370870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624175371895	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624175371902	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624175387457	Marionette	INFO	Stopped listening on port 57595
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624175395304	geckodriver	INFO	Listening on 127.0.0.1:57722
+1624175398387	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileKL9inL"
+1624175399023	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileKL9inL\\search.json.mozlz4", (void 0)))
+1624175401646	Marionette	INFO	Listening on port 57730
+1624175402083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624175403204	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624175420427	Marionette	INFO	Stopped listening on port 57730
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624175654963	geckodriver	INFO	Listening on 127.0.0.1:61291
+1624175658052	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilelPCDIA"
+1624175658696	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilelPCDIA\\search.json.mozlz4", (void 0)))
+1624175661521	Marionette	INFO	Listening on port 61299
+1624175661754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624175662729	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624175662734	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624175679682	Marionette	INFO	Stopped listening on port 61299
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624175718168	geckodriver	INFO	Listening on 127.0.0.1:57131
+1624175721229	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilexO3PUW"
+1624175721960	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilexO3PUW\\search.json.mozlz4", (void 0)))
+1624175724674	Marionette	INFO	Listening on port 56444
+1624175724902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624175726326	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624175726330	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624175766838	Marionette	INFO	Stopped listening on port 56444
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624181941924	geckodriver	INFO	Listening on 127.0.0.1:58183
+1624181945002	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileNjH506"
+1624181945569	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileNjH506\\search.json.mozlz4", (void 0)))
+1624181947791	Marionette	INFO	Listening on port 50063
+1624181948197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624181949294	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624181949296	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.child4/domnode156, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 258 getMutations
+JavaScript error: https://creativeassets.asosservices.com/js/cx-nrelic.js, line 4: uncaught exception: Object
+console.warn: "Failed to add watcher data entry for frame targets in browsing context" 20
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addWatcherDataEntry' was resolved", (void 0)))
+1624182446466	Marionette	INFO	Stopped listening on port 50063
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624182455426	geckodriver	INFO	Listening on 127.0.0.1:60762
+1624182458503	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileje3LvS"
+1624182459206	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileje3LvS\\search.json.mozlz4", (void 0)))
+1624182461821	Marionette	INFO	Listening on port 60770
+1624182462182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624182463340	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624182463344	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1624182553632	Marionette	INFO	Stopped listening on port 60770
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624183219192	geckodriver	INFO	Listening on 127.0.0.1:50241
+1624183222273	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileYQ6aot"
+1624183223419	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileYQ6aot\\search.json.mozlz4", (void 0)))
+1624183226447	Marionette	INFO	Listening on port 50249
+1624183226481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624183227585	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624183270274	Marionette	INFO	Stopped listening on port 50249
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624183533707	geckodriver	INFO	Listening on 127.0.0.1:51784
+1624183536805	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileU6y9Xj"
+1624183537444	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileU6y9Xj\\search.json.mozlz4", (void 0)))
+1624183539782	Marionette	INFO	Listening on port 51792
+1624183539982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624183541070	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624183588302	Marionette	INFO	Stopped listening on port 51792
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624184558652	geckodriver	INFO	Listening on 127.0.0.1:51280
+1624184561748	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileFNks2a"
+1624184562409	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileFNks2a\\search.json.mozlz4", (void 0)))
+1624184564632	Marionette	INFO	Listening on port 51288
+1624184564917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624184565933	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624184565936	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624184628998	Marionette	INFO	Stopped listening on port 51288
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624213060500	geckodriver	INFO	Listening on 127.0.0.1:53359
+1624213063602	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile0vPSW4"
+1624213064663	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile0vPSW4\\search.json.mozlz4", (void 0)))
+1624213067552	Marionette	INFO	Listening on port 53375
+1624213067805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624213068916	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624213068920	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624214277443	Marionette	INFO	Stopped listening on port 53375
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624218785727	geckodriver	INFO	Listening on 127.0.0.1:61343
+1624218788782	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileUm3oON"
+1624218789328	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileUm3oON\\search.json.mozlz4", (void 0)))
+1624218791814	Marionette	INFO	Listening on port 61351
+1624218791979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624218793256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1624218841272	Marionette	INFO	Stopped listening on port 61351
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624218850045	geckodriver	INFO	Listening on 127.0.0.1:49441
+1624218853138	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileVQfuoG"
+1624218853793	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileVQfuoG\\search.json.mozlz4", (void 0)))
+1624218856854	Marionette	INFO	Listening on port 63441
+1624218857350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.asosservices.com/sitechromepublisher//dist/client.sitechrome.37082a.js, line 1: TypeError: kg is undefined
+1624218858992	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1624218874339	Marionette	INFO	Stopped listening on port 63441
